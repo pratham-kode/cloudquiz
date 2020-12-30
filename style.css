@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.exahead 
+{
+    background-color: black;
+    padding: 100px;
+    text-align: center;
+    color: white;
+    font-size: 75px;
+}
+.button1{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 30px 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px 20px;
+    cursor: pointer;
+    border-radius: 12px ;
+    
+}
+.description{
+    color: black;
+    font-size: 25px;
+}
