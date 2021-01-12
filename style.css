@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+  }
+body {
+    margin: 0;
+  }
+/* Style the header */
+.header {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    
+  } 
+
+  /* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 70px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: white;
+    color: black;
+  }
+
+  /* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    background-color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    padding-bottom: 45px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width:600px) {
+    .column {
+      width: 100%;
+    }
+    .topnav a {
+        padding: 20px 50px;  
+    }
+  }
+
+  /* Style the footer */
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center; 
+    font-family: 'Josefin Sans', sans-serif;   
+ }
