@@ -37,6 +37,20 @@ body {
     background-color: white;
     color: black;
   }
+  .button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    
+  }
 
   /* Create three equal columns that floats next to each other */
 .column {
@@ -46,7 +60,8 @@ body {
     background-color: white;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20px;
-    padding-bottom: 45px;
+    padding-bottom: 60px;
+    
   }
   
   /* Clear floats after the columns */
