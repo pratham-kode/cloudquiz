@@ -1,0 +1,48 @@
+here we go .. 
+
+ <h2>About us:</h2>
+            <p>Welcome to Cloud Quiz . 
+              On this platform you can give as many quizes as you want , as many times 
+              as you want . The scores are not scored anywhere . Try completing them all ! 
+              ALL THE BEST !
+            </p>
+
+             <h2>Quiz 1</h2>
+      <p>This quiz is all about the birthdays of great people who contributed in science.
+        A birthday is the aniversary of the birth of a individual . 
+        Birthdays are celebrated in many ways , but for this quiz you have to choose on what 
+        day were the given people in the quiz were born on .</p>
+        <a href="quiz1.html" class="button">Try it!</a>
+
+        
+        <h2>Quiz 2</h2>
+        <p>This quiz is all about the famous places and where are they located . 
+        You dont need to know each and every place , but for a hint it's better to know 
+        the wonders of the world . </p>
+        <a href="quiz2.html" class="button">Try it!</a>
+
+         <h2>Quiz 3</h2>
+        <p>This quiz is all about the constellations and the stars in them , again , you 
+          dont need to know each and every star but its better to know the famous ones . 
+
+        </p>
+        <a href="quiz3.html" class="button">Try it!</a>
+
+        <h2>Quiz 4</h2>
+        <p>This quiz is all about famous discoveries and who discovered them . 
+          This is quiz has a bit of varity , but why not try , the scores are not 
+          stored anyway ! 
+        </p>
+        <a href="quiz4.html" class="button">Try it!</a>
+
+         <h2>Quiz 5</h2>
+        <p>This quiz is all about the physics . Do not worry , it is based on basics . 
+          Great way to test yourself ! 
+        </p>
+        <a href="quiz5.html" class="button">Try it!</a>
+
+          <h2>Quiz 6</h2>
+        <p>This quiz is all about the chemical formuleas . It maybe hard for some , not gonna lie . 
+          But why not TRY ? ! 
+        </p>
+        <a href="quiz6.html" class="button">Try it!</a>
