@@ -81,6 +81,9 @@
   padding: 3px;
   margin-top: 20px;
 }
+.mobads{
+  visibility: hidden;
+}
 
 
 
@@ -125,5 +128,11 @@
   }
   .topnav a{
     padding: 15px 0px ;
+  }
+  .fakeimg{
+    visibility: hidden;
+  }
+  .mobads{
+    visibility: visible;
   }
 }
